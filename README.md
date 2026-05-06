@@ -117,5 +117,5 @@ user_swap_b_to_a 5  # Swaps 5 jettons B for jettons A
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-If you need help or interest, contact here: [@shiny0103](https://t.me/shiny0103)
+If you need help or interest, contact here: [@FortuneRust](https://t.me/FortuneRust)
 
